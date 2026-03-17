@@ -15,6 +15,10 @@ web-content-fetcher/
 
 ## 快速安装
 
+1. npx skills add shirenchuang/web-content-fetcher   直接安装
+
+或者
+
 1. 将整个 `web-content-fetcher/` 目录放到你的 OpenClaw workspace skills 目录：
    ```
    ~/.openclaw/workspace/skills/web-content-fetcher/
