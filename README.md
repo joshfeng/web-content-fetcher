@@ -191,24 +191,6 @@ kuaifa publish your-article.md
 
 ---
 
-## 作者
-
-<div align="center">
-
-**石臻说AI**
-
-AI科技博主 · 10+年大厂AI提效专家
-
-专注于个人提效、超级个体、AI 资讯
-
-<img src="qrcode_for_shizhen.jpg" width="200" alt="公众号二维码"/>
-
-*扫码关注公众号*
-
-</div>
-
----
-
 ## License
 
 MIT
