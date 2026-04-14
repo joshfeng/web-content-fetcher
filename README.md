@@ -26,21 +26,17 @@ Web Content Fetcher 是一个轻量级的网页正文提取工具，能够自动
 
 ## 安装
 
-### 方式一：一键安装（推荐）
-
-访问 [skills.sh](https://skills.sh/shirenchuang/web-content-fetcher/web-content-fetcher) 页面，按提示一键安装。
-
-### 方式二：命令行安装
+### 方式一：命令行安装
 
 ```bash
-npx skills add https://github.com/shirenchuang/web-content-fetcher --skill web-content-fetcher
+npx skills add https://github.com/joshfeng/web-content-fetcher --skill web-content-fetcher
 ```
 
-### 方式三：手动安装
+### 方式二：手动安装
 
 ```bash
 # Clone
-git clone https://github.com/shirenchuang/web-content-fetcher.git
+git clone https://github.com/joshfeng/web-content-fetcher.git
 
 # Copy to Claude Code skills directory
 cp -r web-content-fetcher ~/.claude/skills/
@@ -173,23 +169,6 @@ URL 输入
 
 ---
 
-## 相关项目
-
-### [Kuaifa（快发）](https://github.com/shirenchuang/kuaifa) — 公众号一键排版发布
-
-如果你需要将 Markdown 文章发布到微信公众号，推荐使用 **Kuaifa**：
-
-- 一键 Markdown 排版，支持多种主题
-- 自动上传图片到 CDN
-- 一键创建公众号草稿
-- 支持预览和发布
-
-```bash
-pip install kuaifa
-kuaifa publish your-article.md
-```
-
----
 
 ## License
 
