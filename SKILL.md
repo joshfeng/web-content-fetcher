@@ -52,7 +52,7 @@ Use this table to pick the right mode on the first call:
 
 | Domain | Command | Why |
 |--------|---------|-----|
-| `mp.weixin.qq.com` | `fetch.py <url> --stealth` | JS-rendered content |
+| `mp.weixin.qq.com` | `fetch.py <url>` | Static HTML |
 | `zhuanlan.zhihu.com` | `fetch.py <url> --stealth` | Anti-scraping + JS |
 | `juejin.cn` | `fetch.py <url> --stealth` | JS-rendered SPA |
 | `sspai.com` | `fetch.py <url>` | Static HTML |
